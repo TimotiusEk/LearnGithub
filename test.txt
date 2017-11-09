@@ -2,9 +2,9 @@ this is from master branch
 
 
 
-<<<<<<< HEAD
+
 
 this is from master branch2
-=======
+
 this is from sgu branch
->>>>>>> sgu
+sgu
