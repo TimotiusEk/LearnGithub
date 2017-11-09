@@ -1,10 +1,1 @@
-th
-
-
-
-
-
-t2
-
-th
-sgu
+Use git add --ignore-errors . This will still give an error for the unreadable file(s), but not a fatal one. The other files will be added.
